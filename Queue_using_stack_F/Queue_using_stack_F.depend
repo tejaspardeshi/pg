@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729443678 source:e:\dslab_pr\queue_using_stack_f\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1731256261 source:d:\sem-2\pendrive\dslab_pr\queue_using_stack_f\main.c
+	<stdio.h>
+	<stdlib.h>
+
