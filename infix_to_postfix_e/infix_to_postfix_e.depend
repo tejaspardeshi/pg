@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724871684 source:d:\sem-2\ds_lab\dslab_pr\infix_to_postfix_e\main.c
+	<stdio.h>
+	<string.h>
+
